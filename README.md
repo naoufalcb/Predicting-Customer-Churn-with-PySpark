@@ -21,10 +21,6 @@ The project covers a range of essential tasks, including:
 
 The machine learning model is used to identify factors contributing to customer churn, providing actionable insights to reduce churn and increase customer retention. The project provides hands-on experience with the steps required to create a machine learning model in PySpark, equipping you with the tools to deliver an AI-driven solution for customer churn.
 
-### Prerequisites
-- Basic knowledge of Machine Learning and Decision Trees
-- Familiarity with Python programming concepts such as loops, if statements, and lists
-
 ## Dataset
 The dataset used in this project includes the following features:
 - **Numerical features:** e.g., tenure, monthly charges, total charges.
