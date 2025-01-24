@@ -1,3 +1,7 @@
+<a target="_blank" href="https://colab.research.google.com/github/naoufalcb/Predicting-Customer-Churn-with-PySpark/blob/main/Predicting_Customer_Churn_with_PySpark.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Predicting Customer Churn with PySpark
 
 This project aims to predict customer churn using PySpark, leveraging its distributed computing capabilities for efficient data analysis and machine learning. The notebook demonstrates end-to-end processes, from data exploration to building a predictive model.
